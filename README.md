@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on a video game or making a robot
 - 📫 How to reach me? at Uni i guess
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: love code, but code don't love me
 
 <!---
 akira1442/akira1442 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
